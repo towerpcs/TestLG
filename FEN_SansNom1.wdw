@@ -13,13 +13,19 @@ window :
  internal_properties : BgAAAAYAAAA+TikUk4QzhmgfhSVF+Ng+dIh0UBMjRna3gwrELKnAxz6AgYMWQOAlSOc0Yv3Jph8+xVnzAOpPVF3/JLKZiVDGjhLyh8T6TSlKo65FucPUzUtkNIRgATOiBRrF5hQ2HvnriiMUTVvaW9i+OEiybGti2BFjdXlFUoDXo0MbYmjX7z6oZdNCeKa+y9pUrZm100bUn8t79PVYWaDaF99jkLU7Ohoyps3ZX7DiQ3tFctOOix1nqFGYMdk9uXgyCin5lp1LXdxYLYbXuLP9k0kRTyEDpI8ib1SlTvDGySSyWnfVyDTLbgZ8PenWo1NaHY6HmRO78SfekCXGI+l91hxeqjHhy+9sAzgwY0Cw/4ZX78jChBWM5jOwU9OsuuJJZzG8CII6OmM4ra8g2gsaDV9j6lT8WOlAXZdGJmpfAzwSOHDJrgc2n4Sc9S4JjoQ0MsRRmr6bvigOnEfthPFYP970JZb6gW7loDaBYE8+5fjFXQswr/5ZKFxQL1dkB3dIGbkzfaJ/3jEh0at7gOI+MbsCQFog9kVDM3zhEk+XOrMH0cSvmfvcbltHqHztiFt7Gb+BP8ORDP/XC1BPxAGoeQKuWYe7z56LSaDLG8IsRhCMEJUgFXxajw6H0uKE+zec6CZATzy6gc7FFaLTcAbozyGF
  controls :
   -
-    name : BTN_SansNom1
+    name : BTN_Renommé
     identifier : 0x204640af00ab9127
-    internal_properties : BgAAAAYAAAC1LsA1OzzYlZ98AKe05zfaqiv9ZdPVB5FSD5Ty++pwCp1mpUxtu/1pi/VW2OSch2x0TZSKZADBOtyy+CH0iPA0io2DG6oNLcBM15D9VMxNXLaM1GfEzaMSXVzCDJKgXkUVp6J9k2vPspqn830XJ5cqyBV+LN+Tk6yzK444ATdOhHB1VKkNiFmWzb4raznvbbVpfUWBCUqXNQsWJs2rjzt931LY5/AbvUN9UA2oaRAfITBDxyB899Qr0UKgkpli7O2/xVtTDN5anMZyB7hLKsOuB3LdAKvkxLqWgmL3yGOCkmL0eJ1I0irmtBXLtivvcTK+b+FOo+1ntHJT3PMr5mp2Zmr9RN+QraaK1stBJX8hxgcOnoqy2bce1hm4bhOcdIxMyyCryjFpleyApVU35aXSt7MRDyl+96ppmwWO8IoJn/7PiF31PecWmNe4IOYp+5SvDrrq3kapk6XRQLNDcA3E2DTv72d1zP3LebYgvBidh6NeQQ6qyWyOX7L/bd6mVy5fRse7LzIzciCZQYf0Ns2/FjAQExfaeVO8bubAv+uS7RmpwZYc9nyFnapDJbINtQ8LHM+nVEDSEYGtbVWYmeUdQA3HteabNc3VBsXrXukd2GGYuV9zwDbFlXthkXvxias4Icob7ZLb6ShdUWJCQkdwabmRFz00P3sLagyUPBcN8bryM1Mp1DepO+mU2+FMYd5bsXhw2pwbPy40/BbT3cUWm8qRKe63rikarSDtBmE=
+    internal_properties : BgAAAAYAAAA0JtdXsUKhHo932f3+sELpr672xPcJEzS5lKtnPjrClfTLVI1cFeJHoSPlIowouFVmT4Jn72FEiAoOQ3S71duF3WfX8dZKnfurgFS3lnPPxAEUZHs1GAXFoW18hgRNtTpbQ8jAMP5cYCImoCW1VZSLrbpoMhU0/aKiYiEb+psLPsMBmIx0qel+5PL9C1jKfuXBtRoLDsTrowXaRdWMmeRXUixr9rljzSi7wJwsbmQHIIB/5TWzDOTj/jBKK9P9ofMjJTyKDKLDEmnUaCb6KrVmwYLT97CzhLjzRTg+UtStIynIbArNoibCfIHg13FWEOOckR0xiSri8lRr5t3tM+c20OEFIC6QhzDwqpYscUUZDoJr8MU7MgJQy6gc/mysrEDnxhaUbXZom5Zc6W7OwlVf2PuZ75jqZyxYxEHfOlCFu4l3sMg7pEr8YBqiYj4aCdfPpsznopAeQRETrxk/YXCgdzf8rGp0uGjsDuwZZleVsM52OfytEh4rPi6VhG+3Z9B17Q+4xZVNvelWHWbuQrAMOjmRPtGUVDFvWyLjMQ7o0HS9QFHWgZql2fOk+ElwiUlENwAni0XV5rypcMIllH+spREpPzE1zrfX3ol0kjzwuk/CySJCUlLsbELtbwzX/YErrHHe5aNLnK/9FHJIrO0CJAIWJ2sKtIP5H2j/xmPkCGu0G0w5sjZxfzlZ1EpviqSJrDd+tzZLUPHXyMt+b36i+fsDyQTgI+34nhPezSbmOy4=
     type : 4
     code_elements :
      type_code : 4
      p_codes :
+      -
+        code : |1-
+         
+         //Code ajouté
+         s est une chaine
+        type : 18
       -
         type : 161
         enabled : false
