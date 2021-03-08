@@ -25,6 +25,7 @@ window :
          
          //Code ajouté
          s est une chaine
+         n est un entier
         type : 18
       -
         type : 161
